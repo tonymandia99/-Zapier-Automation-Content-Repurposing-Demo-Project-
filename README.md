@@ -43,7 +43,7 @@ It’s designed as a **portfolio project** to showcase workflow automation, AI i
 
 ## 🖼 Workflow Screenshot
 
-*(Zapier Workflow Screenshot placeholder)*
+See the full Zapier workflow here: [workflow.pdf](docs/workflow.pdf)
 
 ---
 
